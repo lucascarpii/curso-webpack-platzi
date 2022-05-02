@@ -11,7 +11,7 @@ module.exports = {
     filename: "[name].[contenthash].js",
     assetModuleFilename: "assets/images/[hash][ext][query]",
   },
-  mode:'development',
+  mode: "development",
   resolve: {
     extensions: [".js"],
     alias: {
